@@ -1,9 +1,21 @@
-h1 {
+header {
   color: purple;
+  text-align: center;
+}
+
+nav {
+  background-color: yellow;
+  text-align: center;
+}
+
+tab {
+  color: purple;
+  text-align: left;
 }
 
 div {
   color: orange;
+  text-align: center;
 }
 
 
