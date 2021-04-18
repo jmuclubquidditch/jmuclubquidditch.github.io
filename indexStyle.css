@@ -16,6 +16,26 @@ tab {
   text-align: left;
 }
 
+a:link {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
 div {
   color: orange;
   text-align: center;
