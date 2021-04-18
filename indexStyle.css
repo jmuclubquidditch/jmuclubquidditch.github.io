@@ -18,5 +18,8 @@ div {
   text-align: center;
 }
 
-
+.indent-1 {
+  float: left;
+  width: 33%;
+}
 
