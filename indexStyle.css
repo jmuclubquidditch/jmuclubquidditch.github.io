@@ -1,3 +1,7 @@
+body {
+  background-color: green;
+}
+
 header {
   color: purple;
   text-align: center;
@@ -21,5 +25,6 @@ div {
 .indent-1 {
   float: left;
   width: 33%;
+  text-align: center;
 }
 
