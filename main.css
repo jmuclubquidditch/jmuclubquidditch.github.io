@@ -41,9 +41,23 @@ div {
   text-align: center;
 }
 
+img {
+  width: 100%;
+}
+
 .indent-1 {
   float: left;
   width: 33%;
+  text-align: center;
+}
+
+.header-1 {
+  color: yellow;
+  text-align: center;
+}
+
+.join {
+  color: yellow;
   text-align: center;
 }
 
